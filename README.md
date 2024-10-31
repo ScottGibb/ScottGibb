@@ -1,23 +1,35 @@
-## Hi there 👋 Im Scott - Welcome to my GitHub
+# Hi there 👋 Im Scott - Welcome to my GitHub [WIP]
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/scott-gibb-ces/)
+[Thingiverse](https://www.thingiverse.com/scottgibb/designs)
+[Printables](https://www.printables.com/@ScottGibb_242109)
+![](https://komarev.com/ghpvc/?username=scottgibb&color=red)
 
 ## 🔭 I’m currently working on ...
 
 ## 🌱 I’m currently learning ...
 
+- Rust
+- Blender
+
 ## Printables and Thingiverse
 
-## GitHub Stats
+As well as being a Embedded software engineer, I love to build things with my 3d printer and make them interact with my software. A lot of my designs you will find on [Thingiverse]() and [Printables]().
+
+But to show off a few:
+
+### 3D Printed Water Fountain
+
+![Water Fountain](img/water%20fountain.png)
+
+### Autonomous Robot
+
+![Autonomous Robot](img/autonomous%20robot.jpeg)
+
+## GitHub
 
 <center>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=scottgibb&theme=gruvbox&show_icons=true&hide=issues,contribs" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottgibb&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" /></p>
 </center>
-
-## Previous Cool Projects
-
-### Digital Concepts Engineering Universal Controller
-
-### Building an Autonomous Robot
-
-### University of Strathclyde Eco Vehicle

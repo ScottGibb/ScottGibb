@@ -1,10 +1,9 @@
 ---
 
-    name: Static Analysis
-    on: [push]
-
-    jobs:
-      Markdown_Lint_Check:
+name: Static Analysis
+on: [push]
+jobs:
+    Markdown_Lint_Check:
         name: Markdown Lint Check
         runs-on: ubuntu-latest
         steps:
@@ -17,7 +16,7 @@
               echo "Checking Markdown files"
               find . -type f -name "*.md" -print0 | xargs -0 markdownlint
 
-      YAML_Lint_Check:
+    YAML_Lint_Check:
         name: YAML Lint Check
         runs-on: ubuntu-latest
         steps:
