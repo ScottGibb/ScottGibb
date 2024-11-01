@@ -1,8 +1,9 @@
 # Hi there 👋 Im Scott - Welcome to my GitHub [WIP]
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/scott-gibb-ces/)
-[![Thingiverse](https://a11ybadges.com/badge?logo=thingiverse)](https://www.thingiverse.com/scottgibb/designs)
-[Printables](https://www.printables.com/@ScottGibb_242109)
+[![Printables Badge](https://img.shields.io/badge/Printables-ScotGibb-FF4500?style=flat&logo=printables&logoColor=white)](https://www.printables.com/@ScottGibb_242109)
+[![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-ScotGibb-248BFB?style=flat&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/scottgibb/designs)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-ScotGibb-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcHh5Y5p9DM8XwAcHCCgk1g/videos)
 ![](https://komarev.com/ghpvc/?username=scottgibb&color=red)
 
 ## 🔭 I’m currently working on ...
