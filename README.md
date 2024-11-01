@@ -1,7 +1,7 @@
 # Hi there 👋 Im Scott - Welcome to my GitHub [WIP]
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/scott-gibb-ces/)
-[Thingiverse](https://www.thingiverse.com/scottgibb/designs)
+[![Thingiverse](https://a11ybadges.com/badge?logo=thingiverse)](https://www.thingiverse.com/scottgibb/designs)
 [Printables](https://www.printables.com/@ScottGibb_242109)
 ![](https://komarev.com/ghpvc/?username=scottgibb&color=red)
 
