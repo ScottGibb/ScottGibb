@@ -16,7 +16,7 @@ Before Dyson, I worked at Witekio as a contractor specializing in Embedded Linux
 
 Prior to Witekio, at Digital Concepts Engineering (secondment from Babcock), I helped prototype a Universal Controller using an STM32 microcontroller, creating a touchscreen interface for vehicle selection and custom communication protocols for autonomous vehicles, controlling a variety of vehicles, including the Ford Ranger and HX60.
 
-At Babcock’s Technology Design Innovation team, I focused on battlefield fleet management, coordinating and controlling UGVs and AUVs, liaising with SMEs to integrate advanced tech, and ensuring reliable communication through high-frequency radio transmission.
+At Babcock’s Technology Design Innovation team, I focused on battlefield fleet management, coordinating and controlling UGVs and AUVs, liaising with SMEs to integrate advanced tech. I also worked with KiCad, Eagle and Fusion to develop uUGVs capable of interacting with our fleet management system.
 
 Earlier, I was part of the University of Strathclyde Eco Vehicle student society, where I developed a robust CAN Bus Communication Network for ECU modules. I collaborated with sub-teams to ensure a reliable network that met the project’s requirements.
 
@@ -46,15 +46,13 @@ My General Toolkit is shown below, I love to explore different languages, tools 
 
 In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/me/analytics/models).
 
-Here are a few highlights:
+![Pictures](./img/CAD.png)
 
-### 3D Printed Water Fountain
+## Printed Circuit Boards
 
-![Water Fountain](img/water%20fountain.png)
+In addition to CAD design, I have a passion for creating my own Printed Circuit Boards (PCBs). You can explore many of these designs on my GitHub, and I’m excited to continue developing and sharing even more innovative boards in the future!
 
-### Autonomous Robot
-
-![Autonomous Robot](img/autonomous%20robot.jpeg)
+![Renders](./img/PCB.png)
 
 ## GitHub Stats
 
