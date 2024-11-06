@@ -10,12 +10,16 @@
 
 ## 🌱 I’m currently learning ...
 
-- Rust
+- Rust (no-std)
+- Typescript
+- NX
 - Blender
+
+## Tools and Languages
 
 ## Printables and Thingiverse
 
-As well as being a Embedded software engineer, I love to build things with my 3d printer and make them interact with my software. A lot of my designs you will find on [Thingiverse]() and [Printables]().
+As well as being a Embedded software engineer, I love to build things with my 3d printer and make them interact with my software. A lot of my designs you will find on [Thingiverse](https://www.thingiverse.com/scottgibb/designs) and [Printables](https://www.printables.com/@ScottGibb_242109).
 
 But to show off a few:
 
