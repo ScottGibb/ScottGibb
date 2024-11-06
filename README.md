@@ -10,7 +10,17 @@
 
 ### Career
 
-As a member of Dyson’s New Product Innovation Software Team, I am rapidly prototyping a diverse range of cutting-edge products. Utilizing languages such as Rust, C++, Python, and Go, using both microservice architectures in Docker and RTOS based systems, I work at the forefront of technology, exploring and applying the latest innovations to bring Dyson’s visionary concepts to life. My role involves continuous investigation of emerging technologies and seamlessly integrating them into the development of future products.
+As a member of Dyson’s New Product Innovation Software Team, I prototype a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explore and apply the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
+
+Before Dyson, I worked at Witekio as a contractor specializing in Embedded Linux Board Support Packages, collaborating with clients to design Yocto builds, adapt Linux kernels, and integrate drivers.
+
+Prior to Witekio, at Digital Concepts Engineering (seconded from Babcock), I helped prototype a Universal Controller using an STM32 microcontroller, creating a touchscreen interface for vehicle selection and custom communication protocols for autonomous vehicles, controlling a variety of vehicles, including the Ford Ranger and HX60.
+
+At Babcock’s Technology Design Innovation team, I focused on battlefield fleet management, coordinating and controlling UGVs and AUVs, liaising with SMEs to integrate advanced tech, and ensuring reliable communication through high-frequency radio transmission.
+
+Earlier, I was part of the University of Strathclyde Eco Vehicle student society, where I developed a robust CAN Bus Communication Network for ECU modules. I collaborated with sub-teams to ensure a reliable network that met the project’s requirements.
+
+In addition to this, I completed two internships in Robotic Systems. One was with the Carnegie Trust, where I analyzed network traffic and security breaches, and the other focused on developing an autonomous robot.
 
 ### Open Source Work
 
