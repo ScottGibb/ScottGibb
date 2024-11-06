@@ -16,9 +16,9 @@ As a member of Dyson’s New Product Innovation Software Team, I am rapidly prot
 
 I also try to contibute to the following projects where I can:
 
-[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
 [![Embassy-rs Trouble](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=trouble&theme=gruvbox)](https://github.com/embassy-rs/trouble)
 [![Embassy-rs bt-hci](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=bt-hci&theme=gruvbox)](https://github.com/embassy-rs/bt-hci)
+[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
 
 ## 🌱 I’m currently learning ...
 
