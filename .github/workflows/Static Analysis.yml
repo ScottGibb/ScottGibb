@@ -17,6 +17,7 @@ jobs:
 
   YAML_Lint_Check:
     name: YAML Lint Check
+    runs-on: ubuntu-latest
     steps:
       name: Yamllint
       uses: karancode/yamllint-github-action@master
