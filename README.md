@@ -14,7 +14,7 @@ As a member of Dyson’s New Product Innovation Software Team, I prototype a div
 
 Before Dyson, I worked at Witekio as a contractor specializing in Embedded Linux Board Support Packages, collaborating with clients to design Yocto builds, adapt Linux kernels, and integrate drivers.
 
-Prior to Witekio, at Digital Concepts Engineering (secondment from Babcock), I helped prototype a Universal Controller using an STM32 microcontroller, creating a touchscreen interface for vehicle selection and custom communication protocols for autonomous vehicles, controlling a variety of vehicles, including the Ford Ranger and HX60.
+Prior to Witekio, at Digital Concepts Engineering (secondment from Babcock), I helped prototype a Universal Controller using an STM32 microcontroller, creating a touchscreen interface for vehicle selection and custom communication protocols for autonomous vehicles, controlling a variety of vehicles, including a Ford Ranger, HX60, DCEs X Series Robots.
 
 At Babcock’s Technology Design Innovation team, I focused on battlefield fleet management, coordinating and controlling UGVs and AUVs, liaising with SMEs to integrate advanced tech. I also worked with KiCad, Eagle and Fusion to develop uUGVs capable of interacting with our fleet management system.
 
