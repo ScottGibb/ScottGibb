@@ -19,9 +19,9 @@ jobs:
     name: YAML Lint Check
     runs-on: ubuntu-latest
     steps:
-      name: Yamllint
-      uses: karancode/yamllint-github-action@master
-      with:
-        yamllint_file_or_dir: "./"
-        yamllint_strict: true
-        yamllint_comment: true
+      - name: Yamllint
+        uses: karancode/yamllint-github-action@master
+        with:
+          yamllint_file_or_dir: "./"
+          yamllint_strict: true
+          yamllint_comment: true
