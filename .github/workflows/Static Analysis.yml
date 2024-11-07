@@ -17,14 +17,10 @@ jobs:
 
   YAML_Lint_Check:
     name: YAML Lint Check
-    runs-on: ubuntu-latest
     steps:
-      - name: Install yamllint
-        run: sudo apt install yamllint
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Run yamllint
-        run: |
-          echo "Checking YAML files"
-          find . -type f -name "*.yml" -print0 | xargs -0 yamllint
-          find . -type f -name "*.yaml" -print0 | xargs -0 yamllint
+      name: Yamllint
+      uses: karancode/yamllint-github-action@master
+      with:
+        yamllint_file_or_dir: "./"
+        yamllint_strict: true
+        yamllint_comment: true
