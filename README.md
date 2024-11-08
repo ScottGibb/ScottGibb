@@ -47,18 +47,24 @@ My General Toolkit is shown below, I love to explore different languages, tools 
 
 In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/me/analytics/models).
 
-![Pictures](./img/CAD.png)
+<p align='center'>
+<img src="./img/CAD.png">
+</p>
 
 ## Printed Circuit Boards
 
 In addition to CAD design, I have a passion for creating my own Printed Circuit Boards (PCBs). You can explore many of these designs on my GitHub, and I’m excited to continue developing and sharing even more innovative boards in the future!
 
-![Renders](./img/PCB.png)
+<p align='center'>
+<img src="./img/PCB.png">
+</p>
 
 ## GitHub Stats
 
-<center>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottgibb&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=scottgibb&theme=gruvbox&show_icons=true&hide=issues,contribs" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/></p>
-</center>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottgibb&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" />
+</p>
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=scottgibb&theme=gruvbox&show_icons=true&hide=issues,contribs" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/>
+</p>
