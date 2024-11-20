@@ -31,6 +31,10 @@ I also try to contibute to the following projects where I can:
 [![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
 [![FreeClimber Repository](https://github-readme-stats.vercel.app/api/pin/?username=adamspierer&repo=FreeClimber&theme=gruvbox)](https://github.com/adamspierer/FreeClimber)
 
+### Libraries
+
+[![TMAG5273 Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=tmag5273&theme=gruvbox)](https://github.com/dysonltd/tmag5273)
+
 ## 🌱 I’m currently learning ...
 
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
