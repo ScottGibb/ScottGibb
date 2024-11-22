@@ -26,12 +26,17 @@ In addition to this, I completed two internships in Robotic Systems. One was wit
 
 I also try to contibute to the following projects where I can:
 
+#### Projects
 [![Embassy-rs Trouble](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=trouble&theme=gruvbox)](https://github.com/embassy-rs/trouble)
 [![Embassy-rs bt-hci](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=bt-hci&theme=gruvbox)](https://github.com/embassy-rs/bt-hci)
-[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
 [![FreeClimber Repository](https://github-readme-stats.vercel.app/api/pin/?username=adamspierer&repo=FreeClimber&theme=gruvbox)](https://github.com/adamspierer/FreeClimber)
 
-### Libraries
+#### Road maps and awesome lists
+
+[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
+[![Awesome Embedded Rust](https://github-readme-stats.vercel.app/api/pin/?username=rust-embedded&repo=awesome-embedded-rust&theme=gruvbox)](https://github.com/rust-embedded/awesome-embedded-rust)
+
+#### Libraries
 
 [![TMAG5273 Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=tmag5273&theme=gruvbox)](https://github.com/dysonltd/tmag5273)
 
