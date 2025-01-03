@@ -53,12 +53,18 @@ I’m currently diving into Rust, focusing on both embedded applications with no
 
 My General Toolkit is shown below, I love to explore different languages, tools and frameworks, throughout my career ive focused on trying out new things.
 
+My tech stack so far encompases the following:
+
+<p align='center'>
+<img src="./img/Languages-And-Tools.drawio.svg">
+</p>
+
 ## Printables and Thingiverse
 
 In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/me/analytics/models).
 
 <p align='center'>
-<img src="./img/CAD.png">
+<img src="./img/CAD.drawio.svg">
 </p>
 
 ## Printed Circuit Boards
@@ -66,7 +72,7 @@ In addition to my work as an embedded software engineer, I’m passionate about 
 In addition to CAD design, I have a passion for creating my own Printed Circuit Boards (PCBs). You can explore many of these designs on my GitHub, and I’m excited to continue developing and sharing even more innovative boards in the future!
 
 <p align='center'>
-<img src="./img/PCB.png">
+<img src="./img/PCBs.drawio.svg">
 </p>
 
 ## GitHub Stats
