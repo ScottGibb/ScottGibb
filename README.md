@@ -34,7 +34,7 @@ I also try to contibute to the following projects where I can:
 
 #### Road maps and awesome lists
 
-[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded)
+[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 [![Awesome Embedded Rust](https://github-readme-stats.vercel.app/api/pin/?username=rust-embedded&repo=awesome-embedded-rust&theme=gruvbox)](https://github.com/rust-embedded/awesome-embedded-rust)
 
 #### Libraries
@@ -62,7 +62,8 @@ My tech stack so far encompases the following:
 
 ## Printables and Thingiverse
 
-In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/me/analytics/models).
+In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/scottgibb/designs) and [Printables](https://www.printables.com/@ScottGibb_242109).
+
 
 <p align='center'>
 <img src="./img/CAD.drawio.svg">
