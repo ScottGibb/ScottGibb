@@ -62,7 +62,8 @@ My tech stack so far encompases the following:
 
 ## Printables and Thingiverse
 
-In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/me/analytics/models).
+In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/) and [Printables](https://www.printables.com/@ScottGibb_242109).
+
 
 <p align='center'>
 <img src="./img/CAD.drawio.svg">
