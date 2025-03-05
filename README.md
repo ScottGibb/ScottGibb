@@ -36,6 +36,11 @@ I also try to contibute to the following projects where I can:
 
 [![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 [![Awesome Embedded Rust](https://github-readme-stats.vercel.app/api/pin/?username=rust-embedded&repo=awesome-embedded-rust&theme=gruvbox)](https://github.com/rust-embedded/awesome-embedded-rust)
+[![Awesome Raspberry Pi](https://github-readme-stats.vercel.app/api/pin/?username=thibmaek&repo=awesome-raspberry-pi&theme=gruvbox)](https://github.com/thibmaek/awesome-raspberry-pi)
+
+
+
+
 
 #### Libraries
 
