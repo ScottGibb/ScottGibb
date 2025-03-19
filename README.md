@@ -1,4 +1,4 @@
-# Hi there 👋 Im Scott - Welcome to my GitHub
+# Hi there 👋 Im Scott - Welcome to my GibbHub
 
 [![Printables Badge](https://img.shields.io/badge/Printables-ScottGibb-FF4500?style=flat&logo=printables&logoColor=white)](https://www.printables.com/@ScottGibb_242109)
 [![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-ScottGibb-248BFB?style=flat&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/scottgibb/designs)
