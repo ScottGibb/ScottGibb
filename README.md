@@ -50,7 +50,7 @@ I also try to contibute to the following projects where I can:
 [![paa5100je-pwm3901  Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=paa5100je-pwm3901&theme=gruvbox)](https://github.com/dysonltd/paa5100je-pwm3901 )
 [![mpr121-hal Repository](https://github-readme-stats.vercel.app/api/pin/?username=SiebenCorgie&repo=mpr121-hal&theme=gruvbox)](https://github.com/SiebenCorgie/mpr121-hal )
 [![TMAG5273 Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=tmag5273&theme=gruvbox)](https://github.com/dysonltd/tmag5273)
-[![AP33772S Repository](https://github-readme-stats.vercel.app/api/pin/?username=scottgibb&repo=AP33772S-rs&theme=gruvbox)](https://github.com/dysonltd/AP33772S-rs)
+[![AP33772S Repository](https://github-readme-stats.vercel.app/api/pin/?username=scottgibb&repo=AP33772S-rs&theme=gruvbox)](https://github.com/scottgibb/AP33772S-rs)
 
 
 ## 🌱 I’m currently learning ...
