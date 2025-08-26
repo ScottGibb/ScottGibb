@@ -1,10 +1,11 @@
 # Hi there 👋 Im Scott - Welcome to my GibbHub
-
+<!-- markdown-link-check-disable -->
 [![Printables Badge](https://img.shields.io/badge/Printables-ScottGibb-FF4500?style=flat&logo=printables&logoColor=white)](https://www.printables.com/@ScottGibb_242109)
 [![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-ScottGibb-248BFB?style=flat&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/scottgibb/designs)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/scott-gibb-ces/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-ScottGibb-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcHh5Y5p9DM8XwAcHCCgk1g/videos)
 ![](https://komarev.com/ghpvc/?username=scottgibb&color=red)
+<!-- markdown-link-check-enable -->
 
 ## 🔭 I’m currently working on ...
 
@@ -39,10 +40,6 @@ I also try to contibute to the following projects where I can:
 [![Awesome Raspberry Pi](https://github-readme-stats.vercel.app/api/pin/?username=thibmaek&repo=awesome-raspberry-pi&theme=gruvbox)](https://github.com/thibmaek/awesome-raspberry-pi)
 [![Awesome Rust](https://github-readme-stats.vercel.app/api/pin/?username=awesome-rust-com&repo=awesome-rust&theme=gruvbox)](https://github.com/awesome-rust-com/awesome-rust)
 
-
-
-
-
 #### Libraries
 
 [![Universal Robot Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=universal-robot&theme=gruvbox)](https://github.com/dysonltd/universal-robot)
@@ -52,7 +49,6 @@ I also try to contibute to the following projects where I can:
 [![paa5100je-pwm3901  Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=paa5100je-pwm3901&theme=gruvbox)](https://github.com/dysonltd/paa5100je-pwm3901 )
 [![mpr121-hal Repository](https://github-readme-stats.vercel.app/api/pin/?username=SiebenCorgie&repo=mpr121-hal&theme=gruvbox)](https://github.com/SiebenCorgie/mpr121-hal )
 [![Post Haste](https://github-readme-stats.vercel.app/api/pin/?username=petekubiak&repo=post-haste&theme=gruvbox)](https://github.com/petekubiak/post-haste)
-
 
 ## 🌱 I’m currently learning ...
 
@@ -73,9 +69,9 @@ My tech stack so far encompases the following:
 </p>
 
 ## Printables and Thingiverse
-
+<!-- markdown-link-check-disable -->
 In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/scottgibb/designs) and [Printables](https://www.printables.com/@ScottGibb_242109).
-
+<!-- markdown-link-check-enable -->
 
 <p align='center'>
 <img src="./img/CAD.drawio.svg">
@@ -90,7 +86,7 @@ In addition to CAD design, I have a passion for creating my own Printed Circuit 
 </p>
 
 ## GitHub Stats
-
+<!-- markdown-link-check-disable -->
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottgibb&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" />
 </p>
@@ -98,3 +94,4 @@ In addition to CAD design, I have a passion for creating my own Printed Circuit 
 <img src="https://github-readme-stats.vercel.app/api?username=scottgibb&theme=gruvbox&show_icons=true&hide=issues,contribs" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/>
 </p>
+<!-- markdown-link-check-enable -->
