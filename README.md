@@ -40,10 +40,6 @@ I also try to contibute to the following projects where I can:
 [![Awesome Raspberry Pi](https://github-readme-stats.vercel.app/api/pin/?username=thibmaek&repo=awesome-raspberry-pi&theme=gruvbox)](https://github.com/thibmaek/awesome-raspberry-pi)
 [![Awesome Rust](https://github-readme-stats.vercel.app/api/pin/?username=awesome-rust-com&repo=awesome-rust&theme=gruvbox)](https://github.com/awesome-rust-com/awesome-rust)
 
-
-
-
-
 #### Libraries
 
 [![Universal Robot Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=universal-robot&theme=gruvbox)](https://github.com/dysonltd/universal-robot)
@@ -53,7 +49,6 @@ I also try to contibute to the following projects where I can:
 [![paa5100je-pwm3901  Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=paa5100je-pwm3901&theme=gruvbox)](https://github.com/dysonltd/paa5100je-pwm3901 )
 [![mpr121-hal Repository](https://github-readme-stats.vercel.app/api/pin/?username=SiebenCorgie&repo=mpr121-hal&theme=gruvbox)](https://github.com/SiebenCorgie/mpr121-hal )
 [![Post Haste](https://github-readme-stats.vercel.app/api/pin/?username=petekubiak&repo=post-haste&theme=gruvbox)](https://github.com/petekubiak/post-haste)
-
 
 ## 🌱 I’m currently learning ...
 
