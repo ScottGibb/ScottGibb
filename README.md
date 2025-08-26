@@ -74,9 +74,9 @@ My tech stack so far encompases the following:
 </p>
 
 ## Printables and Thingiverse
-
+<!-- markdown-link-check-disable -->
 In addition to my work as an embedded software engineer, I’m passionate about creating physical objects with my 3D printer and integrating them with my software. Many of my designs can be found on [Thingiverse](https://www.thingiverse.com/scottgibb/designs) and [Printables](https://www.printables.com/@ScottGibb_242109).
-
+<!-- markdown-link-check-enable -->
 
 <p align='center'>
 <img src="./img/CAD.drawio.svg">
@@ -91,7 +91,7 @@ In addition to CAD design, I have a passion for creating my own Printed Circuit 
 </p>
 
 ## GitHub Stats
-
+<!-- markdown-link-check-disable -->
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottgibb&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" />
 </p>
@@ -99,3 +99,4 @@ In addition to CAD design, I have a passion for creating my own Printed Circuit 
 <img src="https://github-readme-stats.vercel.app/api?username=scottgibb&theme=gruvbox&show_icons=true&hide=issues,contribs" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=scottgibb&theme=gruvbox" width="700"/>
 </p>
+<!-- markdown-link-check-enable -->
