@@ -29,9 +29,10 @@ I also try to contibute to the following projects where I can:
 
 #### Projects
 
-[![Embassy-rs bt-hci](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=bt-hci&theme=gruvbox)](https://github.com/embassy-rs/bt-hci)
-[![FreeClimber Repository](https://github-readme-stats.vercel.app/api/pin/?username=adamspierer&repo=FreeClimber&theme=gruvbox)](https://github.com/adamspierer/FreeClimber)
 [![Embassy-rs Trouble](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=trouble&theme=gruvbox)](https://github.com/embassy-rs/trouble)
+[![Arm Get-Started-with-Edge-AI](https://github-readme-stats.vercel.app/api/pin/?username=Arm-Examples&repo=Get-Started-with-Edge-AI&theme=gruvbox)](https://github.com/Arm-Examples/Get-Started-with-Edge-AI)
+[![FreeClimber Repository](https://github-readme-stats.vercel.app/api/pin/?username=adamspierer&repo=FreeClimber&theme=gruvbox)](https://github.com/adamspierer/FreeClimber)
+[![Embassy-rs bt-hci](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=bt-hci&theme=gruvbox)](https://github.com/embassy-rs/bt-hci)
 
 #### Road Maps and Awesome Lists
 
