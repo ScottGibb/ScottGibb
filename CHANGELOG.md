@@ -2,11 +2,9 @@
 
 ## 1.0.0 (2025-12-05)
 
-
 ### Features
 
 * Adding Release Please workflow ([5c97d29](https://github.com/ScottGibb/ScottGibb/commit/5c97d293075349d9d5849f27742c7537dded8399))
-
 
 ### Bug Fixes
 
