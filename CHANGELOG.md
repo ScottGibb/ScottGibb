@@ -2,11 +2,9 @@
 
 ## [1.1.0](https://github.com/ScottGibb/ScottGibb/compare/v1.0.0...v1.1.0) (2025-12-15)
 
-
 ### Features
 
 * swap Dependabot auto merge ([c77f7f7](https://github.com/ScottGibb/ScottGibb/commit/c77f7f763c522c019632c85f5707ea4d677e7293))
-
 
 ### Bug Fixes
 
