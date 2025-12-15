@@ -2,14 +2,38 @@
 name: Dependabot Auto Merge
 on:
   pull_request:
-    branches:
-      - main
+    branches: [ main ]
+
+permissions:
+  pull-requests: write
+  contents: write
+
 jobs:
-  auto-merge:
+  # ---------------------------------------------------
+  # JOB 1: Auto-merge GitHub Actions updates
+  # ---------------------------------------------------
+  merge-actions-updates:
+    if: >
+      github.actor == 'dependabot[bot]' &&
+      contains(join(github.event.pull_request.labels.*.name), 'github-actions')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
-          target: minor
           github-token: ${{ secrets.dependabot }}
+          target: all    # GitHub Actions = non-SemVer
+
+  # ---------------------------------------------------
+  # JOB 2: Auto-merge ONLY semver-minor updates
+  #       for everything except GitHub Actions
+  # ---------------------------------------------------
+  merge-semver-minor:
+    if: >
+      github.actor == 'dependabot[bot]' &&
+      !contains(join(github.event.pull_request.labels.*.name), 'github-actions')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+        with:
+          github-token: ${{ secrets.dependabot }}
+          target: minor   # Safe for ecosystems that use real SemVer
