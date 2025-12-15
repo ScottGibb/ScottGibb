@@ -15,7 +15,7 @@ jobs:
   merge-actions-updates:
     if: >
       github.actor == 'dependabot[bot]' &&
-      contains(join(github.event.pull_request.labels.*.name), 'github-actions')
+      contains(join(github.event.pull_request.labels.*.name), 'github_actions')
     runs-on: ubuntu-latest
     steps:
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
@@ -30,7 +30,7 @@ jobs:
   merge-semver-minor:
     if: >
       github.actor == 'dependabot[bot]' &&
-      !contains(join(github.event.pull_request.labels.*.name), 'github-actions')
+      !contains(join(github.event.pull_request.labels.*.name), 'github_actions')
     runs-on: ubuntu-latest
     steps:
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
