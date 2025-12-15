@@ -16,3 +16,4 @@ jobs:
       - uses: fastify/github-action-merge-dependabot@v3
         with:
           github-token: ${{ secrets.dependabot }}
+          merge-method: rebase
