@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://github.com/ScottGibb/ScottGibb/compare/v1.0.0...v1.1.0) (2025-12-15)
+
+
+### Features
+
+* swap Dependabot auto merge ([c77f7f7](https://github.com/ScottGibb/ScottGibb/commit/c77f7f763c522c019632c85f5707ea4d677e7293))
+
+
+### Bug Fixes
+
+* **ci:** Dependabot merge method ([2b240ac](https://github.com/ScottGibb/ScottGibb/commit/2b240acbe88c462a688149f2a12d08a4ed02d672))
+* **ci:** Further Dependabot auto merge configuration ([357290d](https://github.com/ScottGibb/ScottGibb/commit/357290d12ef6bb8adc2f0f819c70f9bd213536e3))
+* **ci:** Handle GitHub Actions automatic merge ([8058048](https://github.com/ScottGibb/ScottGibb/commit/8058048e1838e674e268a79c8bb94513e6d138e5))
+* **ci:** label name for GitHub Actions in Dependabot config ([497d0f8](https://github.com/ScottGibb/ScottGibb/commit/497d0f88e84704cab04e9223905e5447ab094ba7))
+
 ## 1.0.0 (2025-12-05)
 
 ### Features
