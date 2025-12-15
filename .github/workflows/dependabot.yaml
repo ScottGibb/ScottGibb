@@ -2,7 +2,7 @@
 name: Dependabot Auto Merge
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 permissions:
   pull-requests: write
@@ -21,7 +21,7 @@ jobs:
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
           github-token: ${{ secrets.dependabot }}
-          target: all    # GitHub Actions = non-SemVer
+          target: all # GitHub Actions = non-SemVer
 
   # ---------------------------------------------------
   # JOB 2: Auto-merge ONLY semver-minor updates
@@ -36,4 +36,4 @@ jobs:
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
           github-token: ${{ secrets.dependabot }}
-          target: minor   # Safe for ecosystems that use real SemVer
+          target: minor # Safe for ecosystems that use real SemVer
