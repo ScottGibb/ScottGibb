@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/ScottGibb/ScottGibb/compare/v1.1.0...v1.2.0) (2025-12-18)
+
+
+### Features
+
+* update content ([f34900b](https://github.com/ScottGibb/ScottGibb/commit/f34900bdea2119e3b10a9e563b189f95a7faae10))
+
+
+### Bug Fixes
+
+* Update README.md ([d1e5cd8](https://github.com/ScottGibb/ScottGibb/commit/d1e5cd8f7c60a8b18f92470b270e657cd516e15d))
+* Update README.md ([7e1427a](https://github.com/ScottGibb/ScottGibb/commit/7e1427a6a72d1b413771f84c96d935e8d5ede337))
+
 ## [1.1.0](https://github.com/ScottGibb/ScottGibb/compare/v1.0.0...v1.1.0) (2025-12-15)
 
 ### Features
