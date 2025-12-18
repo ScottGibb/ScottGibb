@@ -1,4 +1,5 @@
 # Hi there 👋 Im Scott - Welcome to my GibbHub
+
 <!-- markdown-link-check-disable -->
 [![Printables Badge](https://img.shields.io/badge/Printables-ScottGibb-FF4500?style=flat&logo=printables&logoColor=white)](https://www.printables.com/@ScottGibb_242109)
 [![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-ScottGibb-248BFB?style=flat&logo=thingiverse&logoColor=white)](https://www.thingiverse.com/scottgibb/designs)
@@ -11,7 +12,9 @@
 
 ### Career
 
-As a member of Dyson’s New Product Innovation Software Team, I prototype a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explore and apply the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
+Now working as an Embedded Software Engineer at Arm - Cambridge in the Edge IoT Solutions Team - watch this space!
+
+I was a member of Dyson’s New Product Innovation Software Team, I prototyped a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explored and applied the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
 
 Before Dyson, I worked at Witekio as a contractor specializing in Embedded Linux Board Support Packages, collaborating with clients to design Yocto builds, adapt Linux kernels, and integrate drivers.
 
@@ -25,31 +28,7 @@ In addition to this, I completed two internships in Robotic Systems. One was wit
 
 ### Open Source Work
 
-I also try to contibute to the following projects where I can:
-
-#### Projects
-
-[![Embassy-rs Trouble](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=trouble&theme=gruvbox)](https://github.com/embassy-rs/trouble)
-[![Arm Get-Started-with-Edge-AI](https://github-readme-stats.vercel.app/api/pin/?username=Arm-Examples&repo=Get-Started-with-Edge-AI&theme=gruvbox)](https://github.com/Arm-Examples/Get-Started-with-Edge-AI)
-[![FreeClimber Repository](https://github-readme-stats.vercel.app/api/pin/?username=adamspierer&repo=FreeClimber&theme=gruvbox)](https://github.com/adamspierer/FreeClimber)
-[![Embassy-rs bt-hci](https://github-readme-stats.vercel.app/api/pin/?username=embassy-rs&repo=bt-hci&theme=gruvbox)](https://github.com/embassy-rs/bt-hci)
-
-#### Road Maps and Awesome Lists
-
-[![Embedded Engineering Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=m3y54m&repo=Embedded-Engineering-Roadmap&theme=gruvbox)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
-[![Awesome Embedded Rust](https://github-readme-stats.vercel.app/api/pin/?username=rust-embedded&repo=awesome-embedded-rust&theme=gruvbox)](https://github.com/rust-embedded/awesome-embedded-rust)
-[![Awesome Raspberry Pi](https://github-readme-stats.vercel.app/api/pin/?username=thibmaek&repo=awesome-raspberry-pi&theme=gruvbox)](https://github.com/thibmaek/awesome-raspberry-pi)
-[![Awesome Rust](https://github-readme-stats.vercel.app/api/pin/?username=awesome-rust-com&repo=awesome-rust&theme=gruvbox)](https://github.com/awesome-rust-com/awesome-rust)
-
-#### Libraries
-
-[![Universal Robot Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=universal-robot&theme=gruvbox)](https://github.com/dysonltd/universal-robot)
-[![Commitment issues](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=commitment-issues&theme=gruvbox)](https://github.com/dysonltd/commitment-issues)
-[![TMAG5273 Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=tmag5273&theme=gruvbox)](https://github.com/dysonltd/tmag5273)
-[![AP33772S Repository](https://github-readme-stats.vercel.app/api/pin/?username=scottgibb&repo=AP33772S-rs&theme=gruvbox)](https://github.com/scottgibb/AP33772S-rs)
-[![paa5100je-pwm3901  Repository](https://github-readme-stats.vercel.app/api/pin/?username=dysonltd&repo=paa5100je-pwm3901&theme=gruvbox)](https://github.com/dysonltd/paa5100je-pwm3901 )
-[![mpr121-hal Repository](https://github-readme-stats.vercel.app/api/pin/?username=SiebenCorgie&repo=mpr121-hal&theme=gruvbox)](https://github.com/SiebenCorgie/mpr121-hal )
-[![Post Haste](https://github-readme-stats.vercel.app/api/pin/?username=petekubiak&repo=post-haste&theme=gruvbox)](https://github.com/petekubiak/post-haste)
+I also try to contibute to the following projects where I can, you can find out more about this on [Gibbiverse](https://scottgibb.github.io/Gibbiverse/pages/open_source/)
 
 ## 🌱 I’m currently learning ...
 
