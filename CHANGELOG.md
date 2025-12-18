@@ -2,11 +2,9 @@
 
 ## [1.2.0](https://github.com/ScottGibb/ScottGibb/compare/v1.1.0...v1.2.0) (2025-12-18)
 
-
 ### Features
 
 * update content ([f34900b](https://github.com/ScottGibb/ScottGibb/commit/f34900bdea2119e3b10a9e563b189f95a7faae10))
-
 
 ### Bug Fixes
 
