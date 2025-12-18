@@ -28,7 +28,7 @@ In addition to this, I completed two internships in Robotic Systems. One was wit
 
 ### Open Source Work
 
-I also try to contibute to the following projects where I can, you can find out more about this on [Gibbiverse](https://scottgibb.github.io/Gibbiverse/pages/open_source/)
+I also try to contribute to the following projects where I can, you can find out more about this on [Gibbiverse](https://scottgibb.github.io/Gibbiverse/pages/open_source/)
 
 ## 🌱 I’m currently learning ...
 
