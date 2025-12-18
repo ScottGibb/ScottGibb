@@ -14,7 +14,7 @@
 
 Now working as an Embedded Software Engineer at Arm - Cambridge in the Edge IoT Solutions Team - watch this space!
 
-I was a member of Dyson’s New Product Innovation Software Team, I prototyped a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explored and applied the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
+As a member of Dyson’s New Product Innovation Software Team, I prototyped a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explored and applied the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
 
 Before Dyson, I worked at Witekio as a contractor specializing in Embedded Linux Board Support Packages, collaborating with clients to design Yocto builds, adapt Linux kernels, and integrate drivers.
 
