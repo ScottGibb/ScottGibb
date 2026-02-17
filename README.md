@@ -11,7 +11,6 @@
 ## 🔭 I’m currently working on ...
 
 ### Career
-
 Now working as an Embedded Software Engineer at Arm - Cambridge in the Edge IoT Solutions Team - watch this space!
 
 As a member of Dyson’s New Product Innovation Software Team, I prototyped a diverse range of cutting-edge products, using Rust, C++, Python, and Go with microservice architectures in Docker and RTOS-based systems. I explored and applied the latest technologies to bring Dyson’s concepts to life, continuously investigating and integrating emerging innovations into product development.
